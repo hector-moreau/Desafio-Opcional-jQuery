@@ -23,8 +23,8 @@ A continuación se detalla lo que debes realizar en el archivo script.js :
     Twitter: <i class="fab fa-twitter"></i>
     Pinterest: <i class="fab fa-pinterest"></i>
 
-4- Al clickear cualquier "<h2>" cambie su color de letra a rojo.
-5- Seleccionar el cuarto "<li>" de la segunda <section>
+4- Al clickear cualquier h2 cambie su color de letra a rojo.
+5- Seleccionar el cuarto li de la segunda section
 
     Por medio de un append agrega este string: <ul><li><a href="#">link 4.a</a></li></ul>
     Por medio de un un after agrega este otro string: <li><a href="#">link 5</a></li>
